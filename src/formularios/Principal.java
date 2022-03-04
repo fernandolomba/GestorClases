@@ -485,6 +485,7 @@ public class Principal extends javax.swing.JFrame {
         ventana.setVisible(true);
 
         MetodosSueltos.rellenarComboAlumno(cmbAlumno);
+        //comentario para Git
 
         filtro();
 
